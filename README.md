@@ -1,6 +1,6 @@
 # Smart Inventory Intelligence for Public Food Distribution
 
-AI-for-Good solution built on Snowflake to prevent stock-outs of essential food items
+**AI-for-Good** solution built on Snowflake to prevent stock-outs of essential food items
 by enabling early detection and intelligent redistribution.
 
 ## 🧠 Problem
