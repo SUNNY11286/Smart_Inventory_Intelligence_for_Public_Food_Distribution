@@ -28,12 +28,6 @@ A Snowflake-native inventory intelligence system that:
 - Transparent “No Source Available” Handling
 - Auto-refreshing Streamlit Dashboard
 
-## 📊 Demo
-See `demo/demo_walkthrough.md` for the demo flow.
-
-## 📽️ Presentation
-Final PPT is available in `/ppt`.
-
 ## 🌍 AI for Good Impact
 - Reduces food wastage
 - Prevents supply disruptions
