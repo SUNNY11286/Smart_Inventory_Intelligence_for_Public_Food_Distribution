@@ -41,3 +41,5 @@ A Snowflake-native inventory intelligence system that:
 
 ## 📜 License
 MIT License
+
+link: https://app.snowflake.com/jvgaokh/no72552/#/streamlit-apps/AI_FOR_GOOD_DB.INVENTORY.LWSD5GCSW535Q527/
